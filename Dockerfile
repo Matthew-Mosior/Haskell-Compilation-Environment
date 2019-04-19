@@ -42,3 +42,4 @@ RUN cabal install process
 RUN cabal install split
 RUN cabal install temporary
 RUN cabal install extra
+RUN cabal install regex-tdfa
